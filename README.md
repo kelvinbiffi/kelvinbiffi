@@ -21,15 +21,15 @@ Atualmente estou trabalhando em um projeto chamado [<img src="https://img.shield
 
 ## Livros que escrevi:
 
-[Javascript: Básico ao Avançado: Guia completo para iniciantes](https://amzn.to/3jpQkw6)
-[O Menino Dentro da Cartola de Retalhos](https://amzn.to/2HR6FfC)
-[Mika e Scottie McGregorye](https://amzn.to/2Grb9ZM)
+- [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://amzn.to/3jpQkw6)
+- [O Menino Dentro da Cartola de Retalhos](https://amzn.to/2HR6FfC)
+- [Mika e Scottie McGregorye](https://amzn.to/2Grb9ZM)
 
 ------
 
 ## Livros que colaborei:
 
-[Guia da Hemodiálise: De paciente para paciente](https://amzn.to/33kOirD)
+- [Guia da Hemodiálise: De paciente para paciente](https://amzn.to/33kOirD)
 
 ------
 
