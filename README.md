@@ -1,3 +1,5 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=kelvinbiffi)
+
 ### 👋 Olá formas de vida bípedes baseadas em carbono e dotadas de polegares opositores 😄
 ## Quem sou eu
 
