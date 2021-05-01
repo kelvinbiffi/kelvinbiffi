@@ -45,4 +45,6 @@ Atualmente estou trabalhando em um projeto chamado [<img src="https://img.shield
 [<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi@gmail.com)
 [<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinbiffi/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kelvinbiffi)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kelvinbiffi&hide_title=true&show_icons=true&count_private=true&line_height=21)
+![Github stats - Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbiffi&hide_title=true&layout=compact&hide=jupyter%20notebook)
+
