@@ -42,8 +42,8 @@ Atualmente estou trabalhando em um projeto chamado [<img src="https://img.shield
 ## 📫 Onde você pode me encontrar?
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">](https://www.linkedin.com/in/kelvinbiffi/)
-[<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi@gmail.com)
-[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinbiffi/)
+[<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi.developer@gmail.com)
+[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/papai.dev/)
 
 ------
 
