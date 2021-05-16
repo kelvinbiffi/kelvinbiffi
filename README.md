@@ -6,7 +6,6 @@ Meu nome é Kelvin Batista Biffi Leote.
 Sou Técnico em Engenheria de Software, Graduado em Analise e Desenvolvimento de Sistemas e Pós-Graduado em Liderança e Coaching.
 
 Eu estudo programação desde 2009 e trabalho na área desde 2011!
-Trabalho atualmente na [Pmweb](https://www.linkedin.com/company/pmweb/)
 
 Sou apaixonado por escrever, programar, ensinar e principalmente colocar conhecimento em prática.
 
