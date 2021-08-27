@@ -51,3 +51,5 @@ Atualmente estou trabalhando em um projeto chamado [<img src="https://img.shield
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kelvinbiffi&hide_title=true&show_icons=true&count_private=true&line_height=21)
 ![Github stats - Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbiffi&hide_title=true&layout=compact&hide=jupyter%20notebook)
 
+
+![](https://activity-graph.herokuapp.com/graph?username=kelvinbiffi&theme=redical)
