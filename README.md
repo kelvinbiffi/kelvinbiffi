@@ -1,24 +1,24 @@
-### 👋 Olá formas de vida bípedes baseadas em carbono e dotadas de polegares opositores 😄
-## Quem sou eu
+### 👋 Hello carbon-based bipedal lifeforms with opposable thumbs 😄
+## Who am I
 
-Meu nome é Kelvin Batista Biffi Leote, também conhecido como Kelvão ou [Papai Desenvolvedor](https://www.youtube.com/c/KelvinBiffi)
+My name is Kelvin Batista Biffi Leote, aka Big Kelvin or [Daddy Developer](https://www.youtube.com/c/KelvinBiffi)
 
-Sou Técnico em Engenheria de Software, Graduado em Analise e Desenvolvimento de Sistemas e Pós-Graduado em Liderança e Coaching.
+I am a Software Engineering Technician, Graduated in Systems Analysis and Development and Post Graduated in Leadership and Coaching.
 
-Eu estudo programação desde 2009 e trabalho na área desde 2011!
+I study programming since 2009 and work in the field since 2011!
 
-Sou apaixonado por escrever, programar, ensinar e principalmente colocar conhecimento em prática.
+I am passionate about writing, programming, teaching and especially putting knowledge into practice.
 
-No meu tempo livre gosto de curtir minha família (:sparkling_heart:), tocar meus projetos (:computer:), me exercitar (:weight_lifting_man:), meditar (:lotus_position:) assistir series (📺), ler e escrever (📚), apreciar boas conversas acompanhadas de boas bebidas e comidas (:cheese::coffee::wine_glass:🍺).
-
-------
-## 💻 Projetos
-
-Atualmente estou trabalhando em um projeto chamado [<img src="https://img.shields.io/badge/-Papai_Desenvolvedor-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/papai.dev/) onde compartilho a experiência incrível de ser pai, dicas de programação e desenvolvimento infantil junto com o meu pequeno grande milagre
+In my free time I like to enjoy my family (:sparkling_heart:), play my projects (:computer:), exercise (:weight_lifting_man:), meditate (:lotus_position:) watch series (📺), read and write (📚) , enjoy good conversations accompanied by good drinks and food (:cheese::coffee::wine_glass:🍺).
 
 ------
+## 💻 Projects
 
-## 📝 Livros que escrevi:
+I'm currently working on a project called [<img src="https://img.shields.io/badge/-Papai_Developer-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/papai.dev/) where I share the incredible experience of being a father, programming tips and child development along with our little big miracle
+
+------
+
+## 📝 Books I've written:
 
 - [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://amzn.to/3jpQkw6)
 - [O Menino Dentro da Cartola de Retalhos](https://amzn.to/2HR6FfC)
@@ -26,19 +26,19 @@ Atualmente estou trabalhando em um projeto chamado [<img src="https://img.shield
 
 ------
 
-## 📚 Livros que colaborei:
+## 📚 Books I've collaborated with:
 
 - [Guia da Hemodiálise: De paciente para paciente](https://amzn.to/33kOirD)
 
 ------
 
-## 🎙️ Cursos que criei:
+## 🎙️ Courses I created:
 
 - [Criando e aplicando um Style Guide do zero ao todo](https://www.udemy.com/course/criando-e-aplicando-um-style-guide-do-zero-ao-todo/)
 
 ------
 
-## 📫 Onde você pode me encontrar?
+## 📫 Where can you find me?
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">](https://www.linkedin.com/in/kelvinbiffi/)
 [<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi.developer@gmail.com)
