@@ -50,6 +50,5 @@ I'm currently working on a project called [<img src="https://img.shields.io/badg
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kelvinbiffi&hide_title=true&show_icons=true&count_private=true&line_height=21)
 ![Github stats - Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbiffi&hide_title=true&layout=compact&hide=jupyter%20notebook)
-
-
-![](https://activity-graph.herokuapp.com/graph?username=kelvinbiffi&theme=redical)
+![Interaction-Graph](https://activity-graph.herokuapp.com/graph?username=kelvinbiffi&theme=redical)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12159221653&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
