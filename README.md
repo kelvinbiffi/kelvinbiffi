@@ -12,11 +12,6 @@ I am passionate about writing, programming, teaching and especially putting know
 In my free time I like to enjoy my family (:sparkling_heart:), play my projects (:computer:), exercise (:weight_lifting_man:), meditate (:lotus_position:) watch series (📺), read and write (📚) , enjoy good conversations accompanied by good drinks and food (:cheese::coffee::wine_glass:🍺).
 
 ------
-## 💻 Projects
-
-I'm currently working on a project called [<img src="https://img.shields.io/badge/-Papai_Developer-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/papai.dev/) where I share the incredible experience of being a father, programming tips and child development along with our little big miracle
-
-------
 
 ## 📝 Books I've written:
 
@@ -42,7 +37,7 @@ I'm currently working on a project called [<img src="https://img.shields.io/badg
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">](https://www.linkedin.com/in/kelvinbiffi/)
 [<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi.developer@gmail.com)
-[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/papai.dev/)
+[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinbiffi/)
 
 ------
 
