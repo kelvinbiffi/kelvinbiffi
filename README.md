@@ -1,7 +1,7 @@
 ### 👋 Hello carbon-based bipedal lifeforms with opposable thumbs 😄
 ## Who am I
 
-My name is Kelvin Batista Biffi Leote, aka Big Kelvin or [Daddy Developer](https://www.youtube.com/c/KelvinBiffi)
+My name is Kelvin Batista Biffi Leote, aka Big Kelvin
 
 I am a Software Engineering Technician, Graduated in Systems Analysis and Development and Post Graduated in Leadership and Coaching.
 
