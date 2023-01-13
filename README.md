@@ -41,8 +41,6 @@ In my free time I like to enjoy my family (:sparkling_heart:), play my projects 
 
 ------
 
-## 📊 Status
+## 📊 Current Listening To
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kelvinbiffi&hide_title=true&show_icons=true&count_private=true&line_height=21)
-![Github stats - Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbiffi&hide_title=true&layout=compact&hide=jupyter%20notebook)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12159221653&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
