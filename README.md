@@ -15,7 +15,7 @@ In my free time I like to enjoy my family (:sparkling_heart:), play my projects 
 
 ## 📝 Books I've written:
 
-- [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://amzn.to/3jpQkw6)
+- [Javascript: Básico ao Avançado: Guia completo para iniciantes]([https://amzn.to/3jpQkw6](https://www.amazon.com.br/dp/B0BS9VQTJW/))
 - [O Menino Dentro da Cartola de Retalhos](https://amzn.to/2HR6FfC)
 - [Mika e Scottie McGregorye](https://amzn.to/2Grb9ZM)
 
