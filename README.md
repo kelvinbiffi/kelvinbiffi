@@ -15,7 +15,7 @@ In my free time I like to enjoy my family (:sparkling_heart:), play my projects 
 
 ## 📝 Books I've written:
 
-- [Javascript: Básico ao Avançado: Guia completo para iniciantes]([https://amzn.to/3jpQkw6](https://www.amazon.com.br/dp/B0BS9VQTJW/))
+- [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://www.amazon.com.br/dp/B0BS9VQTJW/)
 - [O Menino Dentro da Cartola de Retalhos](https://amzn.to/2HR6FfC)
 - [Mika e Scottie McGregorye](https://amzn.to/2Grb9ZM)
 
@@ -45,5 +45,4 @@ In my free time I like to enjoy my family (:sparkling_heart:), play my projects 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kelvinbiffi&hide_title=true&show_icons=true&count_private=true&line_height=21)
 ![Github stats - Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbiffi&hide_title=true&layout=compact&hide=jupyter%20notebook)
-![Interaction-Graph](https://activity-graph.herokuapp.com/graph?username=kelvinbiffi&theme=redical)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12159221653&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
