@@ -1,46 +1,40 @@
-### 👋 Hello carbon-based bipedal lifeforms with opposable thumbs 😄
-## Who am I
+# 👋 Olá, seres bípedes de base carbônica com polegares opositores 😄
+## Quem sou eu
 
-My name is Kelvin Batista Biffi Leote, aka Big Kelvin
+Meu nome é Kelvin Batista Biffi Leote, também conhecido como Kelvão.
 
-I am a Software Engineering Technician, Graduated in Systems Analysis and Development and Post Graduated in Leadership and Coaching.
+Sou Escritor, Técnico em Engenharia de Software, Graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Liderança e Coaching.
 
-I study programming since 2009 and work in the field since 2011!
+Estudo programação desde 2009 e atuo na área desde 2011!
 
-I am passionate about writing, programming, teaching and especially putting knowledge into practice.
+Sou apaixonado por escrever, programar, ensinar e, principalmente, colocar o conhecimento em prática.
 
-In my free time I like to enjoy my family (:sparkling_heart:), play my projects (:computer:), exercise (:weight_lifting_man:), meditate (:lotus_position:) watch series (📺), read and write (📚) , enjoy good conversations accompanied by good drinks and food (:cheese::coffee::wine_glass:🍺).
+No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meus projetos (💻), exercitar-me (🏋️‍♂️), meditar (🧘‍♂️), assistir séries (📺), ler e principalmente escrever (📚), além de desfrutar de boas conversas acompanhadas de boas bebidas e comidas (🧀☕🍷🍺).
 
 ------
 
-## 📝 Books I've written:
+## 📝 Livros que escrevi:
 
-- [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://www.amazon.com.br/dp/B0BS9VQTJW/)
+- [Economópolis](https://economopolis.com.br/)
 - [O Menino Dentro da Cartola de Retalhos](https://amzn.to/2HR6FfC)
-- [Mika e Scottie McGregorye](https://amzn.to/2Grb9ZM)
+- [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://www.amazon.com.br/dp/B0BS9VQTJW/)
 
 ------
 
-## 📚 Books I've collaborated with:
-
-- [Guia da Hemodiálise: De paciente para paciente](https://amzn.to/33kOirD)
-
-------
-
-## 🎙️ Courses I created:
+## 🎙️ Cursos que criei:
 
 - [Criando e aplicando um Style Guide do zero ao todo](https://www.udemy.com/course/criando-e-aplicando-um-style-guide-do-zero-ao-todo/)
 
 ------
 
-## 📫 Where can you find me?
+## 📫 Onde você pode me encontrar?
 
+[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinbiffi/)
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">](https://www.linkedin.com/in/kelvinbiffi/)
 [<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi.developer@gmail.com)
-[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinbiffi/)
 
 ------
 
-## 📊 Current Listening To
+## 📊 Escutando atualmente
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12159221653&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
