@@ -16,7 +16,7 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 ## 📝 Livros que escrevi:
 
 - [Economópolis](https://economopolis.com.br/)
-- [O Menino Dentro da Cartola de Retalhos](https://amzn.to/2HR6FfC)
+- [O Menino Dentro da Cartola de Retalhos](https://www.amazon.com.br/dp/B0CW1CSD1N/)
 - [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://www.amazon.com.br/dp/B0BS9VQTJW)
 - [Algoritmo para Leigos: Descomplicando a Resolução de Problemas](https://www.amazon.com.br/dp/B0DG32258Z)
 
