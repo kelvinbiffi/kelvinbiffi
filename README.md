@@ -33,9 +33,3 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 [<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinbiffi/)
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">](https://www.linkedin.com/in/kelvinbiffi/)
 [<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi.developer@gmail.com)
-
-------
-
-## 📊 Escutando atualmente
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12159221653&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
