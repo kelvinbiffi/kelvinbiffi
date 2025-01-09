@@ -3,9 +3,9 @@
 
 Meu nome é Kelvin Batista Biffi Leote, também conhecido como Kelvão.
 
-Sou Escritor, Técnico em Engenharia de Software, Graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Liderança e Coaching.
+Sou Escritor, Palestrante, Professor e Engenheiro de Software. Graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Liderança e Coaching.
 
-Estudo programação desde 2009 e atuo na área desde 2011!
+Estudo programação desde 2009 e atuo na área desde 2010!
 
 Sou apaixonado por escrever, programar, ensinar e, principalmente, colocar o conhecimento em prática.
 
@@ -24,7 +24,9 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 
 ## 🎙️ Cursos que criei:
 
-- [Criando e aplicando um Style Guide do zero ao todo](https://www.udemy.com/course/criando-e-aplicando-um-style-guide-do-zero-ao-todo/)
+- [Introdução à Inteligência Artificial](https://academy.yellowkode.com/introducao-a-inteligencia-artificial/)
+- [Engenharia de Prompt](https://academy.yellowkode.com/engenharia-de-prompt/)
+- [Arte e Criatividade com Inteligência Artificial](https://academy.yellowkode.com/arte-e-criatividade-com-inteligencia-artificial/)
 
 ------
 
