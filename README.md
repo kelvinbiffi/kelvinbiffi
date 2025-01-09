@@ -19,6 +19,7 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 - [O Menino Dentro da Cartola de Retalhos](https://www.amazon.com.br/dp/B0CW1CSD1N/)
 - [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://www.amazon.com.br/dp/B0BS9VQTJW)
 - [Algoritmo para Leigos: Descomplicando a Resolução de Problemas](https://www.amazon.com.br/dp/B0DG32258Z)
+- [Construindo o Futuro: Os Benefícios do LEGO para Desenvolvimento Infantil](https://loja.uiclap.com/titulo/ua69547/)
 
 ------
 
