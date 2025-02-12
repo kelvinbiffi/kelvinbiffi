@@ -15,11 +15,14 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 
 ## 📝 Livros que escrevi:
 
-- [Economópolis](https://economopolis.com.br/)
-- [O Menino Dentro da Cartola de Retalhos](https://www.amazon.com.br/dp/B0CW1CSD1N/)
-- [Javascript: Básico ao Avançado: Guia completo para iniciantes](https://www.amazon.com.br/dp/B0BS9VQTJW)
+- [Método IAPA: Um Ciclo Constante de Crescimento Pessoal e Profissional](https://www.amazon.com.br/dp/B0DWMGVK5L/)
+- [As 5 leis universais do dinheiro](https://www.amazon.com.br/dp/B0DTJHX4S6/)
+- [Construindo o Futuro: Os Benefícios do LEGO para Desenvolvimento Infantil](https://www.amazon.com.br/dp/B0DK6MRTDY/)
 - [Algoritmo para Leigos: Descomplicando a Resolução de Problemas](https://www.amazon.com.br/dp/B0DG32258Z)
-- [Construindo o Futuro: Os Benefícios do LEGO para Desenvolvimento Infantil](https://loja.uiclap.com/titulo/ua69547/)
+- [O Tamanduá Mensageiro do Rei](https://loja.uiclap.com/titulo/ua67047/)
+- [Economópolis](https://economopolis.com.br/)
+- [O Menino Dentro da Cartola de Retalhos](https://www.amazon.com.br/Menino-Dentro-Cartola-Retalhos-ebook/dp/B0CW1CSD1N)
+- [Javascript: Básico ao Avançado](https://www.amazon.com.br/dp/B0BS9VQTJW/)
 
 ------
 
