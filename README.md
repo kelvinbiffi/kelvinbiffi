@@ -13,6 +13,15 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 
 ------
 
+## 📫 Onde você pode me encontrar?
+
+[<img src="https://img.shields.io/badge/Linkezera-8051d6"/>](https://github.com/kelvinbiffi)
+[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white"/>](https://www.instagram.com/kelvinbiffi/)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>](https://www.linkedin.com/in/kelvinbiffi/)
+[<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white"/>](mailto:kelvinbiffi.developer@gmail.com)
+
+------
+
 ## 📝 Livros que escrevi:
 
 - [Javascript: Básico ao Avançado](https://www.amazon.com.br/dp/B0BS9VQTJW/)
@@ -28,6 +37,7 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 
 ## 🎙️ Projetos que criei:
 
+- [Mentezinha](https://mentezinha.app)
 - [Linkezera](https://linkezera.com/)
 - [TudoVagas](https://tudovagas.com.br/)
 - [MentalKare](https://mentalkare.org/)
@@ -39,11 +49,3 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 - [Introdução à Inteligência Artificial](https://academy.yellowkode.com/introducao-a-inteligencia-artificial/)
 - [Engenharia de Prompt](https://academy.yellowkode.com/engenharia-de-prompt/)
 - [Arte e Criatividade com Inteligência Artificial](https://academy.yellowkode.com/arte-e-criatividade-com-inteligencia-artificial/)
-
-------
-
-## 📫 Onde você pode me encontrar?
-
-[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinbiffi/)
-[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">](https://www.linkedin.com/in/kelvinbiffi/)
-[<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:kelvinbiffi.developer@gmail.com)
