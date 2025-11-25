@@ -46,4 +46,4 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 
 ## 🎙️ Cursos que criei:
 
-https://yellowkode.com/cursos
+- https://yellowkode.com/cursos
