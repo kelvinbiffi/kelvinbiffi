@@ -46,6 +46,4 @@ No meu tempo livre, gosto de aproveitar minha família (❤️), desenvolver meu
 
 ## 🎙️ Cursos que criei:
 
-- [Introdução à Inteligência Artificial](https://academy.yellowkode.com/introducao-a-inteligencia-artificial/)
-- [Engenharia de Prompt](https://academy.yellowkode.com/engenharia-de-prompt/)
-- [Arte e Criatividade com Inteligência Artificial](https://academy.yellowkode.com/arte-e-criatividade-com-inteligencia-artificial/)
+https://yellowkode.com/cursos
