@@ -1,1 +1,93 @@
-IyDwn5GLIEtlbHZpbiBCYXRpc3RhIEJpZmZpIExlb3RlCgoqKkZvdW5kZXIgJiBMZWFkIEluc3RydWN0b3IqKiBAIFtZZWxsb3dLb2RlIEFjYWRlbXldKGh0dHBzOi8veWVsbG93a29kZS5jb20pIMK3IEVzY3JpdG9yIMK3IEVuZ2VuaGVpcm8gZGUgU29mdHdhcmUKCj4gRXN0dWRvIHByb2dyYW1hw6fDo28gZGVzZGUgMjAwOSwgYXR1byBuYSDDoXJlYSBkZXNkZSAyMDEwLiBQw7NzLUdyYWR1YWRvIGVtIExpZGVyYW7Dp2EgZSBDb2FjaGluZy4gTUJBIGVtIElBIGUgSW50ZWxpZ8OqbmNpYSBkZSBNZXJjYWRvLiAgCj4gQXBhaXhvbmFkbyBwb3IgZXNjcmV2ZXIsIHByb2dyYW1hciwgZW5zaW5hciBlIOKAlCBwcmluY2lwYWxtZW50ZSDigJQgY29sb2NhciBvIGNvbmhlY2ltZW50byBlbSBwcsOhdGljYS4KCi0tLQoKIyMg8J+TqyBPbmRlIG1lIGVuY29udHJhcgoKWzxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1llbGxvd0tvZGUtRkZENzAwP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ29Db2xvcj1ibGFjayIvPl0oaHR0cHM6Ly95ZWxsb3drb2RlLmNvbSkKWzxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpbmtlemVyYS04MDUxZDYiLz5dKGh0dHBzOi8vbGlua2V6ZXJhLmNvbS9rZWx2aW5iaWZmaSkKWzxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1JbnN0YWdyYW0tZDkzMzgzP3N0eWxlPWZsYXQtc3F1YXJlJmxhYmVsQ29sb3I9ZDkzMzgzJmxvZ289aW5zdGFncmFtJmxvZ29Db2xvcj13aGl0ZSIvPl0oaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rZWx2aW5iaWZmaS8pCls8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi1ibHVlP2xvZ289bGlua2VkaW4iLz5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9rZWx2aW5iaWZmaS8pCls8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9HbWFpbC1yZWQ/bG9nbz1HbWFpbCZsb2dvQ29sb3I9d2hpdGUiLz5dKG1haWx0bzprZWx2aW5iaWZmaS5kZXZlbG9wZXJAZ21haWwuY29tKQoKLS0tCgojIyDwn5OaIExpdnJvcyBwdWJsaWNhZG9zIG5hIEFtYXpvbgoKPiBb4oaSIFZlciB0b2RvcyBvcyBsaXZyb3MgbmEgQW1hem9uLmNvbS5icl0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9zP2k9ZGlnaXRhbC10ZXh0JnJoPXBfMjclM0FLZWx2aW4lMkJCYXVtaGFyZHQlMkJCaWZmaSZzPXJlbGV2YW5jZXJhbmsmdGV4dD1LZWx2aW4rQmF1bWhhcmR0K0JpZmZpKQoKIyMjIFPDqXJpZSBJQSBuYSBQcsOhdGljYSDigJQgWWVsbG93S29kZSBBY2FkZW15Cgp8IFZvbCB8IFTDrXR1bG8gfCBMaW5rIHwKfC0tLXwtLS18LS0tfAp8IDEgfCBDb250ZXh0IEVuZ2luZWVyaW5nOiBPIEd1aWEgRGVmaW5pdGl2byBwYXJhIExMTXMgfCBbQW1hem9uXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwSDFQVFNKUDcpIHwKfCAyIHwgU3BlYyBEcml2ZW4gRGV2ZWxvcG1lbnQgbmEgUHLDoXRpY2EgfCBbQW1hem9uXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwSDJSUDNWNTQpIHwKfCAzIHwgQWdlbnRlcyBkZSBJQSBjb20gUHl0aG9uIHwgW0FtYXpvbl0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEgyUloxVkJNKSB8CnwgNCB8IE1DUCBuYSBQcsOhdGljYSBjb20gUHl0aG9uIHwgW0FtYXpvbl0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEdYMzJIVEg4KSB8CgojIyMgU8OpcmllIERldiBuYSBQcsOhdGljYSDigJQgWWVsbG93S29kZSBBY2FkZW15Cgp8IFZvbCB8IFTDrXR1bG8gfCBMaW5rIHwKfC0tLXwtLS18LS0tfAp8IDEgfCBKYXZhU2NyaXB0IG5hIFByw6F0aWNhIHwgW0FtYXpvbl0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEdaR0c2UTc3KSB8CnwgMiB8IEdvIG5hIFByw6F0aWNhIHwgW0FtYXpvbl0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEgzV1RGUENXKSB8CnwgMyB8IFRERCBuYSBQcsOhdGljYSBjb20gUHl0aG9uIHwgW0FtYXpvbl0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEgySlJGVEZUKSB8CnwgNCB8IFR5cGVTY3JpcHQgbmEgUHLDoXRpY2EgfCBbQW1hem9uXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwR1g2VzVaQ1YpIHwKfCA1IHwgU1FMIG5hIFByw6F0aWNhIGNvbSBQb3N0Z3JlU1FMIHwgW0FtYXpvbl0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEg2Njg4S0w0KSB8CgojIyMgVMOpY25pY29zIOKAlCBTdGFuZGFsb25lCgotIFtKYXZhU2NyaXB0OiBCw6FzaWNvIGFvIEF2YW7Dp2Fkb10oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEJTOVZRVEpXKQotIFtMw7NnaWNhIGRlIFByb2dyYW1hw6fDo28gbmEgUHLDoXRpY2FdKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBIM0tWQlBCMikKLSBbR3VpYSBkbyBQcm9ncmFtYWRvciBNb2Rlcm5vXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwSDYzN0RKR0wpCi0gW01JTlRBITogTWludGEgYXTDqSBxdWUgc2VqYSB2ZXJkYWRlXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwR1gzQjZQTVEpCgojIyMgRmljw6fDo28g4oCUIFPDqXJpZSBBcnF1aXZvIE1vcnRvIChob3Jyb3IgY29zbW9sw7NnaWNvKQoKLSBbTyBBbmRhciBxdWUgTsOjbyBFeGlzdGVdKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBIMlpCTDI3Qikg4oCUIFZvbC4gMQotIFtBIEdlb21ldHJpYSBkbyBBcnF1aXRldG9dKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBIMlpHOFo0Vikg4oCUIFZvbC4gMgotIFtPIENvcnJlZG9yIFNlbSBGaW1dKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBHWE5RTUo0Mykg4oCUIFZvbC4gMwotIFtBIEVzY2FkYSBkbyBDb25zb2xhw6fDo29dKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBIM05OM1FTQikg4oCUIFZvbC4gNAotIFtPIEFycXVpdm8gU3VibWVyc29dKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBIMlc3QzFOWCkg4oCUIFZvbC4gNQotIFtBIEphbmVsYSBGZWNoYWRhIGRlIERlbnRyb10oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEg0RjNEMzVNKSDigJQgVm9sLiA2Ci0gW08gSmFyZGltIFNlbSBTYcOtZGFdKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBINTgxODUzUCkg4oCUIFZvbC4gNwoKIyMjIEZpY8Onw6NvIOKAlCBSb21hbmNlCgotIFtQcm9pYmlkb3MgcGVsbyBDb250cmF0b10oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEdRTjM4UDhHKSDigJQgU8OpcmllIEZhbcOtbGlhIFbDqXJ0aWNlIFZvbC4gMQotIFtDbMOhdXN1bGFzIHF1ZSBOw6NvIHNlIERpemVtXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwSDNOTjdTSFgpIOKAlCBTw6lyaWUgRmFtw61saWEgVsOpcnRpY2UgVm9sLiAyCi0gW1Byb3RvY29sbyBEb3JtZW50ZV0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMEdaV1hYUEwxKSDigJQgU8OpcmllIEZhbcOtbGlhIFbDqXJ0aWNlIFZvbC4gMwotIFtDT1JURSBERSBTQU5HVUVdKGh0dHBzOi8vd3d3LmFtYXpvbi5jb20uYnIvZHAvQjBIM0tWRktHWikg4oCUIFPDqXJpZSBGYW3DrWxpYSBDb3J0ZSBWb2wuIDEKCiMjIyBPdXRyb3MKCi0gW0FsZ29yaXRtbyBwYXJhIExlaWdvc10oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMERHMzIyNThaKQotIFtDb25zdHJ1aW5kbyBvIEZ1dHVybzogT3MgQmVuZWbDrWNpb3MgZG8gTEVHTyBwYXJhIERlc2Vudm9sdmltZW50byBJbmZhbnRpbF0oaHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici9kcC9CMERLNk1SVERZKQotIFtNw6l0b2RvIElBUEE6IFVtIENpY2xvIENvbnN0YW50ZSBkZSBDcmVzY2ltZW50byBQZXNzb2FsIGUgUHJvZmlzc2lvbmFsXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwRFdNR1ZLNUwpCi0gW0FzIDUgTGVpcyBVbml2ZXJzYWlzIGRvIERpbmhlaXJvXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwRFRKSFg0UzYpCi0gW08gTWVuaW5vIERlbnRybyBkYSBDYXJ0b2xhIGRlIFJldGFsaG9zXShodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwQ1cxQ1NEMU4pCi0gW08gVGFtYW5kdcOhIE1lbnNhZ2Vpcm8gZG8gUmVpXShodHRwczovL2xvamEudWljbGFwLmNvbS90aXR1bG8vdWE2NzA0Ny8pCi0gW0Vjb25vbcOzcG9saXNdKGh0dHBzOi8vZWNvbm9tb3BvbGlzLmNvbS5ici8pCgotLS0KCiMjIPCfmoAgUHJvZHV0b3MgcXVlIGNyaWVpCgotIFtZZWxsb3dLb2RlIEFjYWRlbXldKGh0dHBzOi8veWVsbG93a29kZS5jb20pIOKAlCBjdXJzb3MgZSBsaXZyb3MgdMOpY25pY29zIHBhcmEgZGV2cwotIFtMaW5rZXplcmFdKGh0dHBzOi8vbGlua2V6ZXJhLmNvbS8pIOKAlCBsaW5rIGluIGJpbyBwcm9maXNzaW9uYWwKLSBbTWVudGV6aW5oYV0oaHR0cHM6Ly9tZW50ZXppbmhhLmFwcC8pIOKAlCBzYcO6ZGUgbWVudGFsIGNvbSBJQQotIFtNZW50YWxLYXJlXShodHRwczovL21lbnRhbGthcmUub3JnLykg4oCUIHNhw7pkZSBtZW50YWwgYWNlc3PDrXZlbAotIFtHaG9zdGl0eV0oaHR0cHM6Ly9naG9zdGl0eS5jb20vKSDigJQgaWRlbnRpZGFkZSBkaWdpdGFsCi0gW1N0YXJ0QXRlbmRlXShodHRwczovL3N0YXJ0YXRlbmRlLmNvbS8pIOKAlCBhdGVuZGltZW50byBpbnRlbGlnZW50ZQotIFtBIE3DoXF1aW5hIGRlIERpdmlkZW5kb3NdKGh0dHBzOi8vYW1hcXVpbmFkZWRpdmlkZW5kb3MuY29tLmJyLykg4oCUIGVkdWNhw6fDo28gZmluYW5jZWlyYQoKLS0tCgojIyDwn46Z77iPIEN1cnNvcwoKW3llbGxvd2tvZGUuY29tL2N1cnNvc10oaHR0cHM6Ly95ZWxsb3drb2RlLmNvbS9jdXJzb3Mp
+﻿# 👋 Kelvin Batista Biffi Leote
+
+**Founder & Lead Instructor** @ [YellowKode Academy](https://yellowkode.com) · Escritor · Engenheiro de Software
+
+> Estudo programação desde 2009, atuo na área desde 2010. Pós-Graduado em Liderança e Coaching. MBA em IA e Inteligência de Mercado.  
+> Apaixonado por escrever, programar, ensinar e — principalmente — colocar o conhecimento em prática.
+
+---
+
+## 📫 Onde me encontrar
+
+[<img src="https://img.shields.io/badge/YellowKode-FFD700?style=flat-square&logoColor=black"/>](https://yellowkode.com)
+[<img src="https://img.shields.io/badge/Linkezera-8051d6"/>](https://linkezera.com/kelvinbiffi)
+[<img src="https://img.shields.io/badge/-Instagram-d93383?style=flat-square&labelColor=d93383&logo=instagram&logoColor=white"/>](https://www.instagram.com/kelvinbiffi/)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>](https://www.linkedin.com/in/kelvinbiffi/)
+[<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white"/>](mailto:kelvinbiffi.developer@gmail.com)
+
+---
+
+## 📚 Livros publicados na Amazon
+
+> [→ Ver todos os livros na Amazon.com.br](https://www.amazon.com.br/s?i=digital-text&rh=p_27%3AKelvin%2BBaumhardt%2BBiffi&s=relevancerank&text=Kelvin+Baumhardt+Biffi)
+
+### Série IA na Prática — YellowKode Academy
+
+| Vol | Título | Link |
+|---|---|---|
+| 1 | Context Engineering: O Guia Definitivo para LLMs | [Amazon](https://www.amazon.com.br/dp/B0H1PTSJP7) |
+| 2 | Spec Driven Development na Prática | [Amazon](https://www.amazon.com.br/dp/B0H2RP3V54) |
+| 3 | Agentes de IA com Python | [Amazon](https://www.amazon.com.br/dp/B0H2RZ1VBM) |
+| 4 | MCP na Prática com Python | [Amazon](https://www.amazon.com.br/dp/B0GX32HTH8) |
+
+### Série Dev na Prática — YellowKode Academy
+
+| Vol | Título | Link |
+|---|---|---|
+| 1 | JavaScript na Prática | [Amazon](https://www.amazon.com.br/dp/B0GZGG6Q77) |
+| 2 | Go na Prática | [Amazon](https://www.amazon.com.br/dp/B0H3WTFPCW) |
+| 3 | TDD na Prática com Python | [Amazon](https://www.amazon.com.br/dp/B0H2JRFTFT) |
+| 4 | TypeScript na Prática | [Amazon](https://www.amazon.com.br/dp/B0GX6W5ZCV) |
+| 5 | SQL na Prática com PostgreSQL | [Amazon](https://www.amazon.com.br/dp/B0H6688KL4) |
+
+### Técnicos — Standalone
+
+- [JavaScript: Básico ao Avançado](https://www.amazon.com.br/dp/B0BS9VQTJW)
+- [Lógica de Programação na Prática](https://www.amazon.com.br/dp/B0H3KVBPB2)
+- [Guia do Programador Moderno](https://www.amazon.com.br/dp/B0H637DJGL)
+- [MINTA!: Minta até que seja verdade](https://www.amazon.com.br/dp/B0GX3B6PMQ)
+
+### Ficção — Série Arquivo Morto (horror cosmológico)
+
+- [O Andar que Não Existe](https://www.amazon.com.br/dp/B0H2ZBL27B) — Vol. 1
+- [A Geometria do Arquiteto](https://www.amazon.com.br/dp/B0H2ZG8Z4V) — Vol. 2
+- [O Corredor Sem Fim](https://www.amazon.com.br/dp/B0GXNQMJ43) — Vol. 3
+- [A Escada do Consolação](https://www.amazon.com.br/dp/B0H3NN3QSB) — Vol. 4
+- [O Arquivo Submerso](https://www.amazon.com.br/dp/B0H2W7C1NX) — Vol. 5
+- [A Janela Fechada de Dentro](https://www.amazon.com.br/dp/B0H4F3D35M) — Vol. 6
+- [O Jardim Sem Saída](https://www.amazon.com.br/dp/B0H581853P) — Vol. 7
+
+### Ficção — Romance
+
+- [Proibidos pelo Contrato](https://www.amazon.com.br/dp/B0GQN38P8G) — Série Família Vértice Vol. 1
+- [Cláusulas que Não se Dizem](https://www.amazon.com.br/dp/B0H3NN7SHX) — Série Família Vértice Vol. 2
+- [Protocolo Dormente](https://www.amazon.com.br/dp/B0GZWXXPL1) — Série Família Vértice Vol. 3
+- [CORTE DE SANGUE](https://www.amazon.com.br/dp/B0H3KVFKGZ) — Série Família Corte Vol. 1
+
+### Outros
+
+- [Algoritmo para Leigos](https://www.amazon.com.br/dp/B0DG32258Z)
+- [Construindo o Futuro: Os Benefícios do LEGO para Desenvolvimento Infantil](https://www.amazon.com.br/dp/B0DK6MRTDY)
+- [Método IAPA: Um Ciclo Constante de Crescimento Pessoal e Profissional](https://www.amazon.com.br/dp/B0DWMGVK5L)
+- [As 5 Leis Universais do Dinheiro](https://www.amazon.com.br/dp/B0DTJHX4S6)
+- [O Menino Dentro da Cartola de Retalhos](https://www.amazon.com.br/dp/B0CW1CSD1N)
+- [O Tamanduá Mensageiro do Rei](https://loja.uiclap.com/titulo/ua67047/)
+- [Economópolis](https://economopolis.com.br/)
+
+---
+
+## 🚀 Produtos que criei
+
+- [YellowKode Academy](https://yellowkode.com) — cursos e livros técnicos para devs
+- [Linkezera](https://linkezera.com/) — link in bio profissional
+- [Mentezinha](https://mentezinha.app/) — saúde mental com IA
+- [MentalKare](https://mentalkare.org/) — saúde mental acessível
+- [Ghostity](https://ghostity.com/) — identidade digital
+- [StartAtende](https://startatende.com/) — atendimento inteligente
+- [A Máquina de Dividendos](https://amaquinadedividendos.com.br/) — educação financeira
+
+---
+
+## 🎙️ Cursos
+
+[yellowkode.com/cursos](https://yellowkode.com/cursos)
