@@ -2,7 +2,7 @@
 
 **Founder & Lead Instructor** @ [YellowKode Academy](https://yellowkode.com) · Escritor · Engenheiro de Software
 
-> Estudo programação desde 2009, atuo na área desde 2010. Pós-Graduado em Liderança e Coaching. MBA em IA e Inteligência de Mercado.  
+> Estudo programação desde 2009, atuo na área desde 2010. Pós-Graduado em Liderança e Coaching. MBA em IA e Inteligência de Mercado.
 > Apaixonado por escrever, programar, ensinar e, principalmente, colocar o conhecimento em prática.
 
 ---
@@ -21,7 +21,7 @@
 
 > [→ Ver todos os livros na Amazon.com.br](https://www.amazon.com.br/s?i=digital-text&rh=p_27%3AKelvin%2BBaumhardt%2BBiffi&s=relevancerank&text=Kelvin+Baumhardt+Biffi)
 
-### Série IA na Prática — YellowKode Academy
+### Série IA na Prática: YellowKode Academy
 
 | Vol | Título | Link |
 |---|---|---|
@@ -30,7 +30,7 @@
 | 3 | Agentes de IA com Python | [Amazon](https://www.amazon.com.br/dp/B0H2RZ1VBM) |
 | 4 | MCP na Prática com Python | [Amazon](https://www.amazon.com.br/dp/B0GX32HTH8) |
 
-### Série Dev na Prática — YellowKode Academy
+### Série Dev na Prática: YellowKode Academy
 
 | Vol | Título | Link |
 |---|---|---|
@@ -40,14 +40,14 @@
 | 4 | TypeScript na Prática | [Amazon](https://www.amazon.com.br/dp/B0GX6W5ZCV) |
 | 5 | SQL na Prática com PostgreSQL | [Amazon](https://www.amazon.com.br/dp/B0H6688KL4) |
 
-### Técnicos — Standalone
+### Técnicos Standalone
 
 - [JavaScript: Básico ao Avançado](https://www.amazon.com.br/dp/B0BS9VQTJW)
 - [Lógica de Programação na Prática](https://www.amazon.com.br/dp/B0H3KVBPB2)
 - [Guia do Programador Moderno](https://www.amazon.com.br/dp/B0H637DJGL)
 - [MINTA!: Minta até que seja verdade](https://www.amazon.com.br/dp/B0GX3B6PMQ)
 
-### Ficção — Série Arquivo Morto (horror cosmológico)
+### Ficção: Série Arquivo Morto (horror cosmológico)
 
 - [O Andar que Não Existe](https://www.amazon.com.br/dp/B0H2ZBL27B) (Vol. 1)
 - [A Geometria do Arquiteto](https://www.amazon.com.br/dp/B0H2ZG8Z4V) (Vol. 2)
