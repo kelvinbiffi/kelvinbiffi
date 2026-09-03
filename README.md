@@ -45,7 +45,7 @@ That layer is most of what I do now. The other half is the interface on top of i
 - A **Magento to Next.js migration** for Rede Drogasil, a national pharmacy chain. Two systems coexisting route by route, with high-volume checkout that could not go down during the cutover
 - Frontend systems for **DIFC**, the Dubai International Financial Centre, and for **605 Media Analytics**
 - A **Vue.js landing page builder** at Pmweb that cut development effort by **70%**, moving page creation out of the engineering queue and into the client's hands
-- An **AI recruiting companion**: a Chrome extension over an LLM pipeline with Recall.ai, Supabase, HubSpot and n8n, where every model output was schema-validated before it touched a CRM
+- **Near Companion** at Hire With Near: a Chrome extension over an LLM pipeline with Recall.ai, Supabase, HubSpot, Cloudflare R2 and n8n. A bot joins the intake call as a silent participant and writes the structured job description live, during the call. I owned the whole interface, and every model output was schema-validated before it touched a CRM
 
 ---
 
@@ -82,10 +82,10 @@ Agents with tool calling · MCP servers and clients · RAG and contextual retrie
 
 Most of my production work is under contract and lives in private repos. What is public here is the teaching and the tooling.
 
-- **[Guide-Book](https://github.com/kelvinbiffi/Guide-Book)** — design system and style guide generator that reads your CSS, SCSS, LESS or Stylus and produces the categories, elements and modules of your design system. On npm as [`guide-book-generator`](https://www.npmjs.com/package/guide-book-generator).
-- **[javascript-book](https://github.com/kelvinbiffi/javascript-book)** — every code example from *JavaScript: Básico ao Avançado*.
-- **[mcps](https://github.com/kelvinbiffi/mcps)** — MCP servers for Google Ads, Bing Ads and Meta Ads.
-- **[Criando e aplicando um Style Guide do zero](https://github.com/kelvinbiffi/Criando-e-aplicando-um-Style-Guide-do-zero)** — full source for my design systems course.
+- **[Guide-Book](https://github.com/kelvinbiffi/Guide-Book)** - design system and style guide generator that reads your CSS, SCSS, LESS or Stylus and produces the categories, elements and modules of your design system. On npm as [`guide-book-generator`](https://www.npmjs.com/package/guide-book-generator).
+- **[javascript-book](https://github.com/kelvinbiffi/javascript-book)** - every code example from *JavaScript: Básico ao Avançado*.
+- **[mcps](https://github.com/kelvinbiffi/mcps)** - MCP servers for Google Ads, Bing Ads and Meta Ads.
+- **[Criando e aplicando um Style Guide do zero](https://github.com/kelvinbiffi/Criando-e-aplicando-um-Style-Guide-do-zero)** - full source for my design systems course.
 
 ---
 
