@@ -36,7 +36,6 @@ That layer is most of what I do now. The other half is the interface on top of i
 | **[Mentezinha](https://mentezinha.app)** | Child-safe conversational AI on Google Vertex AI. Built it for my son's homeschooling, now other families use it. With children as the users there is no acceptable failure rate, so the guardrail is a validation layer that can refuse to answer, not a line in a prompt. |
 | **[StartAtende](https://startatende.com)** | AI-powered customer support on WhatsApp. Intent routing and cost control per conversation. |
 | **[MentalKare](https://mentalkare.org)** | Accessible mental health platform, multilingual. |
-| **[Ghostity](https://ghostity.com)** | Digital identity. |
 | **[YellowKode Academy](https://yellowkode.com)** | Courses and technical books for developers. I teach the foundation that makes AI actually work. |
 
 ## Shipped for other people
