@@ -35,6 +35,7 @@ That layer is most of what I do now. The other half is the interface on top of i
 | **[Linkezera](https://linkezera.com)** | Link-in-bio SaaS. **3,700+ users** across LATAM. Built end to end. |
 | **[Mentezinha](https://mentezinha.app)** | Child-safe conversational AI on Google Vertex AI. Built it for my son's homeschooling, now other families use it. With children as the users there is no acceptable failure rate, so the guardrail is a validation layer that can refuse to answer, not a line in a prompt. |
 | **[StartAtende](https://startatende.com)** | AI-powered customer support on WhatsApp. Intent routing and cost control per conversation. |
+| **[SunoBoard](https://sunoboard.com)** | AI music studio. I built it to score the games I want to make, then gave it an **MCP server** so an agent can compose, check generation status and pull finished tracks without a human in the loop. |
 | **[MentalKare](https://mentalkare.org)** | Accessible mental health platform, multilingual. |
 | **[YellowKode Academy](https://yellowkode.com)** | Courses and technical books for developers. I teach the foundation that makes AI actually work. |
 
@@ -85,6 +86,7 @@ Most of my production work is under contract and lives in private repos. What is
 - **[Guide-Book](https://github.com/kelvinbiffi/Guide-Book)** - design system and style guide generator that reads your CSS, SCSS, LESS or Stylus and produces the categories, elements and modules of your design system. On npm as [`guide-book-generator`](https://www.npmjs.com/package/guide-book-generator).
 - **[javascript-book](https://github.com/kelvinbiffi/javascript-book)** - every code example from *JavaScript: Básico ao Avançado*.
 - **[mcps](https://github.com/kelvinbiffi/mcps)** - MCP servers for Google Ads, Bing Ads and Meta Ads.
+- **[Bubble-Shooter](https://github.com/kelvinbiffi/Bubble-Shooter)** and **[GUI_Unity3D_Style_Guide_Base](https://github.com/kelvinbiffi/GUI_Unity3D_Style_Guide_Base)** - a JS game and a Unity3D GUI style guide. Games are the reason I built SunoBoard, and a design system is a design system whether it renders in a browser or in Unity.
 - **[Criando e aplicando um Style Guide do zero](https://github.com/kelvinbiffi/Criando-e-aplicando-um-Style-Guide-do-zero)** - full source for my design systems course.
 
 ---
