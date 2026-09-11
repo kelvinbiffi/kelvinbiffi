@@ -83,10 +83,20 @@ Agents with tool calling · MCP servers and clients · RAG and contextual retrie
 
 ## Here on GitHub
 
-Most of my production work is under contract and lives in private repos. What is public here is the teaching and the tooling.
+Client work lives in private repos. What is open is everything I build under **[YellowKode](https://github.com/YellowKode-Academy)**, which is all mine, plus the tooling here.
+
+### Agents, MCP and local AI
+
+- **[suno-mcp](https://github.com/YellowKode-Academy/suno-mcp)** - MCP server that lets Claude, Cursor and any MCP client generate music with Suno from a plain sentence. It owns the whole generation flow, polling and retrieval, so the assistant never sits blocked on the API. On npm as [`@yellowkode/suno-mcp`](https://www.npmjs.com/package/@yellowkode/suno-mcp), with [`suno-mcp-core`](https://github.com/YellowKode-Academy/suno-mcp-core) holding the typed handlers and tool schemas so a new transport never means rewriting the tools.
+- **[yk-agent](https://github.com/YellowKode-Academy/yk-agent)** - autonomous agent that runs entirely on your machine. Browses, extracts and executes with **no API key and no account**, with a retrieval knowledge base built in. The interesting constraint is privacy: nothing leaves the laptop, which changes what you are allowed to do at every step.
+- **[yk-chat](https://github.com/YellowKode-Academy/yk-chat)** - local AI chat with the same knowledge base, for people who want to use a model without handing over their data.
+- **[squadron](https://github.com/YellowKode-Academy/squadron)** - an opinionated skeleton for a project run by one person and a team of agents. Ten agents, five skills, and documentation the agents actually obey. Not a framework, a starting point you adapt.
+
+### Design systems and teaching
 
 - **[Guide-Book](https://github.com/kelvinbiffi/Guide-Book)** - design system and style guide generator that reads your CSS, SCSS, LESS or Stylus and produces the categories, elements and modules of your design system. On npm as [`guide-book-generator`](https://www.npmjs.com/package/guide-book-generator).
 - **[javascript-book](https://github.com/kelvinbiffi/javascript-book)** - every code example from *JavaScript: Básico ao Avançado*.
+- **Book source, all public:** [MCP na Prática com Python](https://github.com/YellowKode-Academy/mcp-na-pratica), [Agentes de IA com Python](https://github.com/YellowKode-Academy/agentes-ia-python) and [Multiagente com Python](https://github.com/YellowKode-Academy/multiagente-ia-python). I wrote the books, then shipped the same patterns to production, which is a very different experience.
 - **[Bubble-Shooter](https://github.com/kelvinbiffi/Bubble-Shooter)** and **[GUI_Unity3D_Style_Guide_Base](https://github.com/kelvinbiffi/GUI_Unity3D_Style_Guide_Base)** - a JS game and a Unity3D GUI style guide. Games are the reason I built SunoBoard, and a design system is a design system whether it renders in a browser or in Unity.
 - **[Criando e aplicando um Style Guide do zero](https://github.com/kelvinbiffi/Criando-e-aplicando-um-Style-Guide-do-zero)** - full source for my design systems course.
 
