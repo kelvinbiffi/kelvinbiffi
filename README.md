@@ -1,8 +1,8 @@
 # Kelvin Biffi
 
-### I build the interface and the reliability layer for AI products.
+### I design and build the interface for AI products, and the layer underneath that keeps them honest.
 
-**AI Product Engineer** · React · Next.js · TypeScript · Python · **MCP** · AI Agents · LLM Evaluation
+**UX, UI and AI** · React · Next.js · TypeScript · Design Systems · Accessibility · **MCP** · AI Agents · LLM Evaluation
 15+ years shipping production software · Remote, Brazil (UTC-3) · [kelvinbiffi.com](https://kelvinbiffi.com)
 
 > AI made me faster. It did not make me necessary. Fifteen years of engineering did that, and it is why I can tell a model where to look instead of watching it guess.
@@ -24,7 +24,9 @@ It returns something plausible. The logs look clean. Three weeks later someone f
 
 So I stopped trusting model output and started validating it like user input: **schema-constrained, value-checked, with guardrails that can refuse to answer**, evaluation loops, and cost tracked per conversation instead of per call.
 
-That layer is most of what I do now. The other half is the interface on top of it, because a model's answer is worthless until a person can trust it and act on it.
+That layer is half of what I do. The other half is the interface on top of it, and it is the half almost everyone underbuilds.
+
+Chat is the easy part. The hard part is every screen after it: the approval card for an action that cannot be undone, the refusal state where the model said no and that is the correct answer, the tool call you can inspect, the citation that ties a claim back to its source, the cost meter, the diff someone has to review before a record changes. Those screens decide whether a person trusts the system enough to use it. A model’s answer is worthless until someone can act on it.
 
 ---
 
@@ -85,7 +87,6 @@ Most of my production work is under contract and lives in private repos. What is
 
 - **[Guide-Book](https://github.com/kelvinbiffi/Guide-Book)** - design system and style guide generator that reads your CSS, SCSS, LESS or Stylus and produces the categories, elements and modules of your design system. On npm as [`guide-book-generator`](https://www.npmjs.com/package/guide-book-generator).
 - **[javascript-book](https://github.com/kelvinbiffi/javascript-book)** - every code example from *JavaScript: Básico ao Avançado*.
-- **[mcps](https://github.com/kelvinbiffi/mcps)** - MCP servers for Google Ads, Bing Ads and Meta Ads.
 - **[Bubble-Shooter](https://github.com/kelvinbiffi/Bubble-Shooter)** and **[GUI_Unity3D_Style_Guide_Base](https://github.com/kelvinbiffi/GUI_Unity3D_Style_Guide_Base)** - a JS game and a Unity3D GUI style guide. Games are the reason I built SunoBoard, and a design system is a design system whether it renders in a browser or in Unity.
 - **[Criando e aplicando um Style Guide do zero](https://github.com/kelvinbiffi/Criando-e-aplicando-um-Style-Guide-do-zero)** - full source for my design systems course.
 
