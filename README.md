@@ -37,9 +37,31 @@ Chat is the easy part. The hard part is every screen after it: the approval card
 | **[Linkezera](https://linkezera.com)** | Link-in-bio SaaS. **3,700+ users** across LATAM. Built end to end. |
 | **[Mentezinha](https://mentezinha.app)** | Child-safe conversational AI on Google Vertex AI. Built it for my son's homeschooling, now other families use it. With children as the users there is no acceptable failure rate, so the guardrail is a validation layer that can refuse to answer, not a line in a prompt. |
 | **[StartAtende](https://startatende.com)** | AI-powered customer support on WhatsApp. Intent routing and cost control per conversation. |
+| **[ViralRecast](https://viralrecast.com)** | Finds what is going viral on TikTok, Reels and YouTube, explains why a post worked and cuts the vertical clips. Web app **and an MCP server with OAuth 2.1** so it runs inside Claude and ChatGPT. Postgres with pgvector for post similarity, and an atomic credit wallet that refunds failed media jobs. |
+| **[Renderster](https://renderster.com)** | Video rendering as a service, and the media engine behind ViralRecast. Visual editor or JSON in, finished video out. **Go** API and workers on a Redis queue with retries, backoff and dead-letter, FFmpeg underneath, output on Cloudflare R2. |
 | **[SunoBoard](https://sunoboard.com)** | AI music studio. I built it to score the games I want to make, then gave it an **MCP server** so an agent can compose, check generation status and pull finished tracks without a human in the loop. |
 | **[MentalKare](https://mentalkare.org)** | Accessible mental health platform, multilingual. |
 | **[YellowKode Academy](https://yellowkode.com)** | Courses and technical books for developers. I teach the foundation that makes AI actually work. |
+
+## Games I ship on the side
+
+Games are why I built SunoBoard in the first place. Under **[K3 Games Studio](https://itch.io/profile/k3-games-studio)** I design, build and publish my own, and five are live on itch.io:
+
+<p>
+<a href="https://k3-games-studio.itch.io/bubble-blaster"><img src="https://img.itch.zone/aW1nLzMwMzU0NTk3LnBuZw==/315x250%23c/HkSmxi.png" width="180" alt="Bubble Blaster"></a>
+<a href="https://k3-games-studio.itch.io/kaiju-siege"><img src="https://img.itch.zone/aW1nLzI4NDA4ODQyLmpwZw==/315x250%23c/KoyatI.jpg" width="180" alt="Kaiju Siege"></a>
+<a href="https://k3-games-studio.itch.io/dino-breakout"><img src="https://img.itch.zone/aW1nLzI4MzA2NDEwLnBuZw==/315x250%23c/voGJhr.png" width="180" alt="Dino Breakout"></a>
+<a href="https://k3-games-studio.itch.io/hollow-fields"><img src="https://img.itch.zone/aW1nLzI4MjgxNzA5LnBuZw==/315x250%23c/YAGu9s.png" width="180" alt="Hollow Fields"></a>
+<a href="https://k3-games-studio.itch.io/gate-of-the-dead"><img src="https://img.itch.zone/aW1nLzI4NTkzNDIyLnBuZw==/315x250%23c/omhBg5.png" width="180" alt="Gate of the Dead"></a>
+</p>
+
+| Game | Genre | |
+|---|---|---|
+| **[Bubble Blaster](https://k3-games-studio.itch.io/bubble-blaster)** | Puzzle, arcade | Aim, shoot, match three. Chain reactions drop whole clusters in slow motion across 24 handcrafted levels in 3 neon worlds, each with its own pixel art creatures and an original synthwave soundtrack. |
+| **[Kaiju Siege](https://k3-games-studio.itch.io/kaiju-siege)** | Strategy | The kaijus rose from the deep. Deploy five combat mechs, call orbital strikes and hold the city across four living biomes with day and night cycle and weather. Campaign with four bosses, plus an endless mode. |
+| **[Dino Breakout](https://k3-games-studio.itch.io/dino-breakout)** | Action, arcade | The fences failed at midnight and the dinosaurs own the streets. Lead the Rescue Rangers through the city and get the civilians out. |
+| **[Hollow Fields](https://k3-games-studio.itch.io/hollow-fields)** | Action, horror | The world did not end in fire, it rotted. You are Death's last servant, harvesting thousands of souls with auto-weapons, a manual reap sweep and a dash. |
+| **[Gate of the Dead](https://k3-games-studio.itch.io/gate-of-the-dead)** | Shooter, arcade | Arcade shooter. |
 
 ## Shipped for other people
 
@@ -70,6 +92,7 @@ Chat is the easy part. The hard part is every screen after it: the approval card
 **Underneath**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -98,7 +121,7 @@ Client work lives in private repos. What is open is everything I build under **[
 - **[Guide-Book](https://github.com/kelvinbiffi/Guide-Book)** - design system and style guide generator that reads your CSS, SCSS, LESS or Stylus and produces the categories, elements and modules of your design system. On npm as [`guide-book-generator`](https://www.npmjs.com/package/guide-book-generator).
 - **[javascript-book](https://github.com/kelvinbiffi/javascript-book)** - every code example from *JavaScript: Básico ao Avançado*.
 - **Book source, all public:** [MCP na Prática com Python](https://github.com/YellowKode-Academy/mcp-na-pratica), [Agentes de IA com Python](https://github.com/YellowKode-Academy/agentes-ia-python) and [Multiagente com Python](https://github.com/YellowKode-Academy/multiagente-ia-python). I wrote the books, then shipped the same patterns to production, which is a very different experience.
-- **[Bubble-Shooter](https://github.com/kelvinbiffi/Bubble-Shooter)** and **[GUI_Unity3D_Style_Guide_Base](https://github.com/kelvinbiffi/GUI_Unity3D_Style_Guide_Base)** - a JS game and a Unity3D GUI style guide. Games are the reason I built SunoBoard, and a design system is a design system whether it renders in a browser or in Unity.
+- **[Bubble-Shooter](https://github.com/kelvinbiffi/Bubble-Shooter)** and **[GUI_Unity3D_Style_Guide_Base](https://github.com/kelvinbiffi/GUI_Unity3D_Style_Guide_Base)** - a JS game and a Unity3D GUI style guide. Games are the reason I built SunoBoard (the published ones are [above](#games-i-ship-on-the-side)), and a design system is a design system whether it renders in a browser or in Unity.
 - **[Criando e aplicando um Style Guide do zero](https://github.com/kelvinbiffi/Criando-e-aplicando-um-Style-Guide-do-zero)** - full source for my design systems course.
 
 ---
