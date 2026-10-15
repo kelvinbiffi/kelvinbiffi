@@ -68,7 +68,6 @@ Games are why I built SunoBoard in the first place. Under **[K3 Games Studio](ht
 
 - Subscription, billing and lifecycle flows on **Stripe**, used by thousands of paying members at **Firstleaf** (US wine subscription)
 - An enterprise login and registration gateway with **Keycloak and MFA** serving **millions of users** at Lojas Renner
-- A **Magento to Next.js migration** for Rede Drogasil, a national pharmacy chain. Two systems coexisting route by route, with high-volume checkout that could not go down during the cutover
 - Frontend systems for **DIFC**, the Dubai International Financial Centre, and for **605 Media Analytics**
 - A **Vue.js landing page builder** at Pmweb that cut development effort by **70%**, moving page creation out of the engineering queue and into the client's hands
 - **Near Companion** at Hire With Near: a Chrome extension over an LLM pipeline with Recall.ai, Supabase, HubSpot, Cloudflare R2 and n8n. A bot joins the intake call as a silent participant and writes the structured job description live, during the call. I owned the whole interface, and every model output was schema-validated before it touched a CRM
@@ -173,7 +172,6 @@ Almost thirty published books. Four of them are the exact stack I work in.
 
 **Other**
 
-- [MINTA!: Minta até que seja verdade](https://www.amazon.com.br/dp/B0GX3B6PMQ)
 - [Método IAPA: Um Ciclo Constante de Crescimento Pessoal e Profissional](https://www.amazon.com.br/dp/B0DWMGVK5L)
 - [As 5 Leis Universais do Dinheiro](https://www.amazon.com.br/dp/B0DTJHX4S6)
 - [Construindo o Futuro: Os Benefícios do LEGO para Desenvolvimento Infantil](https://www.amazon.com.br/dp/B0DK6MRTDY)
@@ -187,6 +185,6 @@ Almost thirty published books. Four of them are the exact stack I work in.
 
 ---
 
-Currently taking on remote contracts with US and European teams. UTC-3, so most of your day is my day too.
+Remote, Brazil (UTC-3), so most of a US or European day is my day too.
 
-📩 **kelvinbiffi.developer@gmail.com** · [LinkedIn](https://www.linkedin.com/in/kelvinbiffi/) · [kelvinbiffi.com](https://kelvinbiffi.com)
+**kelvinbiffi.developer@gmail.com** · [LinkedIn](https://www.linkedin.com/in/kelvinbiffi/) · [kelvinbiffi.com](https://kelvinbiffi.com)
