@@ -39,6 +39,7 @@ Chat is the easy part. The hard part is every screen after it: the approval card
 | **[StartAtende](https://startatende.com)** | AI-powered customer support on WhatsApp. Intent routing and cost control per conversation. |
 | **[ViralRecast](https://viralrecast.com)** | Finds what is going viral on TikTok, Reels and YouTube, explains why a post worked and cuts the vertical clips. Web app **and an MCP server with OAuth 2.1** so it runs inside Claude and ChatGPT. Postgres with pgvector for post similarity, and an atomic credit wallet that refunds failed media jobs. |
 | **[Renderster](https://renderster.com)** | Video rendering as a service, and the media engine behind ViralRecast. Visual editor or JSON in, finished video out. **Go** API and workers on a Redis queue with retries, backoff and dead-letter, FFmpeg underneath, output on Cloudflare R2. |
+| **[Couryo](https://couryo.com)** | Transactional email API built for Brazil, in beta and already sending for my other products. **TypeScript end to end**: Hono with zod-openapi, BullMQ workers on Redis, Postgres with Drizzle. Delivery runs on **AWS SES v2** with a tenant per customer and BYODKIM. Every send takes an **Idempotency-Key**, so a retried request never becomes a second email. SMTP relay, an **MCP server with OAuth**, official SDKs for Node, Python and PHP, and 679 tests on the API. |
 | **[SunoBoard](https://sunoboard.com)** | AI music studio. I built it to score the games I want to make, then gave it an **MCP server** so an agent can compose, check generation status and pull finished tracks without a human in the loop. |
 | **[MentalKare](https://mentalkare.org)** | Accessible mental health platform, multilingual. |
 | **[YellowKode Academy](https://yellowkode.com)** | Courses and technical books for developers. I teach the foundation that makes AI actually work. |
@@ -106,7 +107,16 @@ Agents with tool calling · MCP servers and clients · RAG and contextual retrie
 
 ## Here on GitHub
 
-Client work lives in private repos. What is open is everything I build under **[YellowKode](https://github.com/YellowKode-Academy)**, which is all mine, plus the tooling here.
+Client work lives in private repos. What is open is everything I build under **[YellowKode](https://github.com/YellowKode-Academy)** and **[Wunka](https://github.com/Wunka-Tech)**, both mine, plus the tooling here.
+
+### Couryo SDKs
+
+The official clients for [Couryo](https://couryo.com), open source under Wunka. Each one wraps the API, retries safely with an idempotency key, and plugs into the mail layer the framework already has, so switching providers is a config change and not a rewrite.
+
+- **[couryo-node](https://github.com/Wunka-Tech/couryo-node)** - TypeScript SDK. On npm as [`@couryo/node`](https://www.npmjs.com/package/@couryo/node).
+- **[couryo-python](https://github.com/Wunka-Tech/couryo-python)** - Python SDK with a **Django email backend**. On PyPI as [`couryo`](https://pypi.org/project/couryo/).
+- **[couryo-php](https://github.com/Wunka-Tech/couryo-php)** - PHP SDK with a **Laravel mail transport**. On Packagist as [`couryo/couryo-php`](https://packagist.org/packages/couryo/couryo-php).
+- **[couryo-email-templates](https://github.com/Wunka-Tech/couryo-email-templates)** - Brazilian transactional email templates for React Email (Pix, boleto, password reset). Works with any provider. On npm as [`@couryo/email-templates`](https://www.npmjs.com/package/@couryo/email-templates).
 
 ### Agents, MCP and local AI
 
