@@ -48,7 +48,7 @@ Chat is the easy part. The hard part is every screen after it: the approval card
 
 Around 2010 I asked my dad to pay for a game development course. His answer: "no way". I picked software engineering instead, and on the first day the professor asked who wanted to make games. I was the only one who raised a hand, and he said: *"then you're in the wrong course"*. Later another professor switched off my PC mid-game: *"in my class you only play what you build yourself"*. So I built one. **Das Buch**, a Gladiatus-style RPG, three months and more than 7,000 lines written by hand, in Delphi.
 
-Unity3D product experiences and a long web career came after. Now I am back to the original dream as the founder of **[K3 Games Studio](https://github.com/K3-Games-Studio)**, with AI agents as part of the team. Games are also why I built SunoBoard in the first place. **[Read the full story →](https://k3gamesstudio.com/historia/)**
+Unity3D product experiences and a long web career came after. Now I am back to the original dream as the founder of **[K3 Games Studio](https://github.com/K3-Games-Studio)**, with AI agents as part of the team. Games are also why I built SunoBoard in the first place. **[Read the full story →](https://k3gamesstudio.com/historia/?lang=en)**
 
 **On Google Play**
 
