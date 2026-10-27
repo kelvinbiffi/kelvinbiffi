@@ -44,9 +44,23 @@ Chat is the easy part. The hard part is every screen after it: the approval card
 | **[MentalKare](https://mentalkare.org)** | Accessible mental health platform, multilingual. |
 | **[YellowKode Academy](https://yellowkode.com)** | Courses and technical books for developers. I teach the foundation that makes AI actually work. |
 
-## Games I ship on the side
+## Games: the dream that started it all
 
-Games are why I built SunoBoard in the first place. Under **[K3 Games Studio](https://itch.io/profile/k3-games-studio)** I design, build and publish my own, and five are live on itch.io:
+Around 2010 I asked my dad to pay for a game development course. His answer: "no way". I picked software engineering instead, and on the first day the professor asked who wanted to make games. I was the only one who raised a hand, and he said: *"then you're in the wrong course"*. Later another professor switched off my PC mid-game: *"in my class you only play what you build yourself"*. So I built one. **Das Buch**, a Gladiatus-style RPG, three months and more than 7,000 lines written by hand, in Delphi.
+
+Unity3D product experiences and a long web career came after. Now I am back to the original dream as the founder of **[K3 Games Studio](https://github.com/K3-Games-Studio)**, with AI agents as part of the team. Games are also why I built SunoBoard in the first place. **[Read the full story →](https://k3gamesstudio.com/historia/)**
+
+**On Google Play**
+
+| Game | |
+|---|---|
+| **[Lantern Logic](https://play.google.com/store/apps/details?id=com.k3games.lanternlogic)** | Daily logic puzzle of lighthouses and lanterns. |
+| **[Stitch Logic](https://play.google.com/store/apps/details?id=com.k3games.stitchlogic)** | Cross-stitch nonograms with journeys and patterns. |
+| **[Countryside Cove](https://play.google.com/store/apps/details?id=com.k3games.countrysidecove)** | Cozy countryside life: farm, fish and meet the neighbors. |
+
+Plus **[free daily puzzles](https://k3gamesstudio.com/puzzles/)** in the browser (open source: [k3-puzzles](https://github.com/K3-Games-Studio/k3-puzzles)).
+
+**On itch.io**
 
 <p>
 <a href="https://k3-games-studio.itch.io/bubble-blaster"><img src="https://img.itch.zone/aW1nLzMwMzU0NTk3LnBuZw==/315x250%23c/HkSmxi.png" width="180" alt="Bubble Blaster"></a>
